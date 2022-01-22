@@ -15,7 +15,6 @@
   <img align="center" alt="Rhael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rhael-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rhael-Docker" height="30" width="40" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg">
-  <img align="center" alt="Rhael-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Rhael-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rhael-Postgre" height="30" width="40" src="https://camo.githubusercontent.com/53545009f2b8643a3315490d99941d924e108dc8a4ea21bf835f5f0b7c0e54da/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f737467726573716c2f706f737467726573716c2d69636f6e2e737667">  
 </div>
