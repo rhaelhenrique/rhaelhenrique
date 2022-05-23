@@ -1,4 +1,3 @@
-## Olá, eu sou o Rhael Henrique!
 
 <div>
   <a href="https://github.com/rhaelhenrique">
